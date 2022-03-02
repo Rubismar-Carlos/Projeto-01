@@ -59,7 +59,8 @@ header > p {
     font-family: var(--fonte-destaque);
     font-size: 2em;
     text-align: center;
-    padding-bottom: 30px; 
+    padding-bottom: 30px;
+    margin-bottom: 10px; 
 }
 main {
     margin: auto;
