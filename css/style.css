@@ -57,7 +57,8 @@ header > p {
     color: aliceblue;
     font-family: var(--fonte-destaque);
     font-size: 2em;
-    text-align: center; 
+    text-align: center;
+    padding-bottom: 50px; 
 }
 main {
     margin: auto;
