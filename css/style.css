@@ -59,7 +59,7 @@ header > p {
     font-family: var(--fonte-destaque);
     font-size: 2em;
     text-align: center;
-    padding-bottom: 100px; 
+    padding-bottom: 30px; 
 }
 main {
     margin: auto;
