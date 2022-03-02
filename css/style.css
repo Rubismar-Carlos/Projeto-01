@@ -14,7 +14,6 @@
 body{ 
     font-family: var(--fonte-padrao);
     background-color: black;
-  padding: 10px;
 }
 
 nav.logo {
